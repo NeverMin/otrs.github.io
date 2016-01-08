@@ -24,7 +24,7 @@ $(document).ready(function() {
                     Version:  '5.0',
                     HTMLPath: 'stable',
                     Name:     'OTRS 5',
-                    Languages: ['en']
+                    Languages: ['en', 'de', 'hu', 'ja', 'ru', 'sw', 'zh_CN']
                 },
                 {
                     Version:  '4.0',
